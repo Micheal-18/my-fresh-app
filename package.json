@@ -1,7 +1,7 @@
 {
   "name": "my-fresh-app",
   "version": "0.1.0",
-  "homepage": "https://realmichael.github.io/my-fresh-app",
+  "homepage":  "https://github.com/Micheal-18/my-fresh-app.git",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
